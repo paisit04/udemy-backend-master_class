@@ -16,3 +16,12 @@ Ref: https://github.com/sqlc-dev/sqlc
 
 - [Installation](https://docs.sqlc.dev/en/latest/overview/install.html)
 
+## RESTful HTTP API
+Ref: https://github.com/gin-gonic/gin
+
+## Load Config
+Ref: https://github.com/spf13/viper
+
+## Mocking Framework
+Ref: https://github.com/golang/mock
+
