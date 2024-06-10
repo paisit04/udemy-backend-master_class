@@ -15,3 +15,6 @@ migrate -path db/migration -database "postgresql://root:secret@localhost:5432/si
 ## Generate CRUD code from SQL
 
 Write a sql query in `db/query`, then run `make sqlc`.
+
+## Production
+- Set `GIN_MODE=release`
