@@ -25,3 +25,18 @@ Ref: https://github.com/spf13/viper
 ## Mocking Framework
 Ref: https://github.com/golang/mock
 
+## [DBML - Database Markup Language](https://dbml.dbdiagram.io/home)
+- vscode extension: vscode-dbml
+- [cli](https://dbml.dbdiagram.io/cli)
+  - [Convert a DBML file to SQL](https://dbml.dbdiagram.io/cli#convert-a-dbml-file-to-sql)
+  - [Convert a SQL file to DBML](https://dbml.dbdiagram.io/cli#convert--a-sql-file-to-dbml)
+  
+## GRPC
+
+- [Protocol Buffer Compiler Installation](https://grpc.io/docs/protoc-installation/)
+- [Go plugins](https://grpc.io/docs/languages/go/quickstart/)
+```sh
+$ go install google.golang.org/protobuf/cmd/protoc-gen-go@v1.28
+$ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.2
+```
+- [gRPC Client](https://github.com/ktr0731/evans)
